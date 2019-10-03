@@ -1,3 +1,3 @@
-var alpha = require("Hello");
-var beta = require("World");
+var alpha = require("alpha");
+var beta = require("beta");
 console.log(alpha + " " + beta);
